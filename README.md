@@ -1,0 +1,1 @@
+Disse data er fiktive registerdata til brug for undervisning i sundhedsdata på data science SDU. Alle datasæt er skabt af mig, men kan anvendes af alle. Hvis man laver en version af et datasæt som andre kan have glæde af, kan det uploades i en underfolder.
